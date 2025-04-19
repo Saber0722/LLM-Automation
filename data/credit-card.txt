@@ -1,0 +1,3 @@
+The cleaned and correctly formatted credit card number is: **2131 7847 6194 2270**. 
+
+(Note: The partial text after the credit card number, "VALIDTHRU05/80683JAREDRODGERS", seems to contain additional information unrelated to the card number itself and has been excluded from the formatting.)
